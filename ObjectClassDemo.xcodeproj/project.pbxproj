@@ -246,6 +246,7 @@
 				2712D9031F8B545E00079824 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
